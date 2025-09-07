@@ -5,21 +5,17 @@ This repository contains the dataset and analysis results for our study on the i
 ## Files Overview
 
 ### 1. Survey-English.pdf and Survey-Chinese.pdf
-These two files provide the full survey reports in English and Chinese versions, respectively. 
-### 2. List_Papers
-This file contains detailed information of the 74 selected papers included in our analysis.
-
-### 3. List_GitHub_Repository
+Survey-English.pdf and survey-Chinese.pdf are the survey of English and Chinese versions, respectively.
+### 2. List_Papers.xlsx
+This file contains the information of selected 74 papers.
+### 3. List_GitHub_Repository.xlsx
 This file contains information for 56 GitHub repositories relevant to UAV-LLM integration.
-
-### 4. Result_Open_Card_Sorting_GitHub_Repository
+### 4. Result_Open_Card_Sorting_GitHub_Repository.xlsx
 This file records the results of the open-card sorting analysis for **RQ1: Research status of large models in the field of UAVs**.
 
-### 5. Result_Open_Card_Sorting_Papers
+### 5. Result_Open_Card_Sorting_Papers.xlsx
 This file contains the results of the open-card sorting analysis for **RQ2: What is the difference between academia and industry in the UAV-LLM
 integration?**
-
----
 
 ## Usage Notes
 
