@@ -17,7 +17,7 @@ This file records the results of the open-card sorting analysis for **RQ1: Resea
 
 ### 5. Result_Open_Card_Sorting_Papers
 This file contains the results of the open-card sorting analysis for **RQ2: What is the difference between academia and industry in the UAV-LLM
-integration?**.
+integration?**
 
 ---
 
